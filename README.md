@@ -22,7 +22,7 @@ Note: If you have reached this repository from the [Nature Biotechnology paper](
     + [JSON data files](#json-data-files)
 - [Data parsing overview](#data-parsing-overview)       
 - [Data tables contained in AllDatatables.mat output file](#data-tables-contained-in-alldatatablesmat-output-file)
-- [Creating combined data table](#creating-combineddatatable)
+- [Creating combined data table](#creating-combineddatatable)w
 - [How to get a time value for each sample of data](#how-to-get-a-time-value-for-each-sample-of-data)
 - [`SystemTick` and `Timestamp`](#systemtick-and-timestamp)
 - [How to calculate `DerivedTime`](#how-to-calculate-derivedtime)
